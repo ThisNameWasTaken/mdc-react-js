@@ -1,6 +1,6 @@
 import React from 'react';
 import { mount, configure } from 'enzyme';
-import Button from './Button';
+import Button from '.';
 import Adapter from 'enzyme-adapter-react-16';
 import { MDCRipple } from '@material/ripple';
 
